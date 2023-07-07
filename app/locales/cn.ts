@@ -1,9 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: 
-    Unauthorized:
-      "[赞助](./pay.jpg)",
+  WIP: "QQ 2236779268",
   Error: {
     Unauthorized:
       "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
