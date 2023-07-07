@@ -255,7 +255,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "插件（114514",
+    Name: "[赞助](./pay.jpg)",
   },
   Mask: {
     Name: "AI功能",
