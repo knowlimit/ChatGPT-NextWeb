@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "QQ 2236779268",
+  WIP: "QQ 3540746063",
   Error: {
     Unauthorized:
       "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
@@ -233,7 +233,8 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是部署在WHRSTUDIO服务器上的CHAT GPT3.5人工大语言模型，你可以向我提出任何问题！",
+    BotHello: "你好，我是CHAT GTP 3.5模型，部署在WHR服务器上，WHR已设置此网站免费使用，我也会遵从他的意见，现在，你可以尝试问问我一个问题，请使用中文，英语等世界通用语言",
+    "114514，开始你的表演吧",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
