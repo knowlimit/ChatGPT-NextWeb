@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "WHRSTUDIO:该功能仍在开发中……",
+  WIP: "[赞助](./pay.jpg)",
   Error: {
     Unauthorized:
       "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
