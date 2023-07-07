@@ -233,8 +233,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是CHAT GTP 3.5模型，部署在WHR服务器上，WHR已设置此网站免费使用，我也会遵从他的意见，现在，你可以尝试问问我一个问题，请使用中文，英语等世界通用语言",
-    "114514，开始你的表演吧",
+    BotHello: "你好，我是CHAT GTP 3.5模型，部署在WHR服务器上，现在，你可以尝试问问我一个问题，请使用中文，英语等世界通用语言",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
@@ -245,7 +244,7 @@ const cn = {
     },
   },
   Copy: {
-    Success: "已写入剪切板",
+    Success: "已成功写入剪切板",
     Failed: "复制失败，请赋予剪切板权限",
   },
   Context: {
