@@ -233,7 +233,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "你好，我是部署在WHRSTUDIO服务器上的CHAT GPT3.5人工大语言模型，你可以向我提出任何问题！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
